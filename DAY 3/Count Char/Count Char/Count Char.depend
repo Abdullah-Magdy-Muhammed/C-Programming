@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665602769 source:c:\users\mylap\desktop\c language\12-10-2022\count char\count char\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1665602769 source:c:\users\mylap\desktop\c language\labs\12-10-2022\count char\count char\main.c
+	<stdio.h>
+	<stdlib.h>
+

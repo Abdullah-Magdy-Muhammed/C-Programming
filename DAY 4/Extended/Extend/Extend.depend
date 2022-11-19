@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665653770 source:c:\users\mylap\desktop\c language\labs\13-10-2022\extended\extend\main.c
+	<stdio.h>
+	<stdlib.h>
+
